@@ -55,28 +55,28 @@ let book6:BookType = {id: 3, title: 'Killer', pageCount: 234, genre:'Detective',
 // Поля: name, username,password. Вивести в консоль пароль кожного користувача
 //
 
-let users: {name: string;  username: string;  password: string}[] = [
-  {name: 'oleg', username:'oleg', password:'123456'},
-  {name: 'valya', username:'valya', password:'234567'},
-  {name: 'katya', username:'katya', password:'345678'},
-  {name: 'gesha', username:'gesha', password:'456789'},
-  {name: 'nika', username:'nika', password:'567890'},
-  {name: 'nikita', username:'nikita', password:'678901'},
-  {name: 'mishan', username:'mishan', password:'789012'},
-  {name: 'boris', username:'boris', password:'890123'},
-  {name: 'kris', username:'kris', password:'901234'},
-  {name: 'serg', username:'serg', password:'012345'}
-];
-console.log(users[0]['password'], users[0].name);
-console.log(users[1]['password'], users[1].name);
-console.log(users[2]['password'], users[2].name);
-console.log(users[3]['password'], users[3].name);
-console.log(users[4]['password'], users[4].name);
-console.log(users[5]['password'], users[5].name);
-console.log(users[6]['password'], users[6].name);
-console.log(users[7]['password'], users[7].name);
-console.log(users[8]['password'], users[8].name);
-console.log(users[9]['password'], users[9].name);
+// let users: {name: string;  username: string;  password: string}[] = [
+//   {name: 'oleg', username:'oleg', password:'123456'},
+//   {name: 'valya', username:'valya', password:'234567'},
+//   {name: 'katya', username:'katya', password:'345678'},
+//   {name: 'gesha', username:'gesha', password:'456789'},
+//   {name: 'nika', username:'nika', password:'567890'},
+//   {name: 'nikita', username:'nikita', password:'678901'},
+//   {name: 'mishan', username:'mishan', password:'789012'},
+//   {name: 'boris', username:'boris', password:'890123'},
+//   {name: 'kris', username:'kris', password:'901234'},
+//   {name: 'serg', username:'serg', password:'012345'}
+// ];
+// console.log(users[0]['password'], users[0].name);
+// console.log(users[1]['password'], users[1].name);
+// console.log(users[2]['password'], users[2].name);
+// console.log(users[3]['password'], users[3].name);
+// console.log(users[4]['password'], users[4].name);
+// console.log(users[5]['password'], users[5].name);
+// console.log(users[6]['password'], users[6].name);
+// console.log(users[7]['password'], users[7].name);
+// console.log(users[8]['password'], users[8].name);
+// console.log(users[9]['password'], users[9].name);
 
 
 // #coYydZuaeEB
