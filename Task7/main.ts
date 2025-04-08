@@ -275,7 +275,6 @@ Array.prototype.myFilter = function (callback:(item:any)=>boolean):any[] {
   }
   console.log(filteredArray);
   return filteredArray;
-
 };
 
 [2, 4, true, 6, 7, false, 9, true, 12, '15'].myFilter((item) => (typeof item !== 'boolean'));
