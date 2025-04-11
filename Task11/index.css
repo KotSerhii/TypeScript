@@ -1,0 +1,9 @@
+.wrap {
+  img{
+    width: 200px;
+  }
+  div{
+    background-color: #b3d4fc;
+    margin-bottom: 20px;
+  }
+}
